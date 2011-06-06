@@ -1,0 +1,12 @@
+---
+abstract: 'dcat - IO_DIRECT version of cat'
+author:
+  - 'Sergey Aleynikov <sergey.aleynikov@gmail.com>'
+license: bsd
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: File-dcat
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.02
